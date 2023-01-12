@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.95d659ce.css",
-    "main.js": "/static/js/main.a8feaee0.js",
-    "index.html": "/index.html",
-    "main.95d659ce.css.map": "/static/css/main.95d659ce.css.map",
-    "main.a8feaee0.js.map": "/static/js/main.a8feaee0.js.map"
+    "main.css": "/wobot-assignment/static/css/main.95d659ce.css",
+    "main.js": "/wobot-assignment/static/js/main.a8feaee0.js",
+    "index.html": "/wobot-assignment/index.html",
+    "main.95d659ce.css.map": "/wobot-assignment/static/css/main.95d659ce.css.map",
+    "main.a8feaee0.js.map": "/wobot-assignment/static/js/main.a8feaee0.js.map"
   },
   "entrypoints": [
     "static/css/main.95d659ce.css",
